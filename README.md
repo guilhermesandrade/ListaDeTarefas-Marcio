@@ -5,9 +5,9 @@
 </p>
 
 <h1 align="center"> 👀 Resultados</h1>
-<img src="./assets/WhatsApp Image 2025-03-17 at 17.08.35.jpeg"></img>
-<img src="./assets/WhatsApp Image 2025-03-17 at 17.08.26.jpeg"></img>
-<img src="./assets/WhatsApp Image 2025-03-17 at 17.09.04.jpeg"></img>
+<img align="center" src="./assets/WhatsApp Image 2025-03-17 at 17.08.35.jpeg"></img>
+<img align="center" src="./assets/WhatsApp Image 2025-03-17 at 17.08.26.jpeg"></img>
+<img align="center" src="./assets/WhatsApp Image 2025-03-17 at 17.09.04.jpeg"></img>
 
 
 <h1 align="center"> 💻 Sobre o Projeto</h1>
