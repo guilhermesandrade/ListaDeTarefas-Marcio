@@ -1,3 +1,26 @@
+<h1 align="center">Lista de Tarefas</h1>
+
+<p align="center"> Um sistema web funcional e intuitivo que permite aos usuários adicionar, organizar e visualizar tarefas, criando uma lista personalizada de afazeres. Com uma interface simples e prática, o sistema ajuda a gerenciar atividades diárias, otimizando a produtividade e mantendo tudo em ordem em um só lugar.
+<br/><br/>(Sistema criado para entrega de tarefa do Prof. Márcio)<br/>
+</p>
+
+<h1 align="center"> 👀 Resultados</h1>
+<img src="./assets/WhatsApp Image 2025-03-17 at 17.08.35.jpeg"></img>
+<img src="./assets/WhatsApp Image 2025-03-17 at 17.08.26.jpeg"></img>
+<img src="./assets/WhatsApp Image 2025-03-17 at 17.09.04.jpeg"></img>
+
+
+<h1 align="center"> 💻 Sobre o Projeto</h1>
+
+<p align="center">Desenvolvi um sistema web dinâmico e interativo utilizando React, projetado para simplificar a organização do dia a dia através de uma lista de tarefas personalizada. Ao acessar o site, o usuário é recebido com uma solicitação para inserir seu nome, garantindo uma experiência personalizada, com um título que o saúda diretamente, trazendo uma conexão mais próxima com o sistema.
+
+Entre as funcionalidades, destaquei um formulário intuitivo para registrar novas tarefas, permitindo que os usuários adicionem facilmente os itens que precisam acompanhar. Além disso, o sistema oferece uma funcionalidade extra de personalização visual: a possibilidade de alterar a cor do fundo do site, adaptando a interface ao gosto do usuário e tornando a navegação ainda mais agradável.
+
+Com foco em usabilidade e uma interface amigável, este sistema foi projetado para otimizar a experiência do usuário, incentivando a produtividade enquanto promove personalização e controle total sobre sua lista de afazeres.</a></p>
+<br/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,35 +62,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-
-SLIDE 12 introdução -> Aula 1 -> Aula 2
